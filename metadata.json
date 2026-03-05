@@ -1,0 +1,5 @@
+{
+  "name": "AI Healthcare Diagnosis System",
+  "description": "An AI-powered symptom analyzer that provides guidance on possible health conditions and basic precautions.",
+  "requestFramePermissions": []
+}
